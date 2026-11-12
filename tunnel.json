@@ -1,0 +1,20 @@
+{
+  "v": 2,
+  "rep_slot": {
+    "v": 1,
+    "iter": 100000,
+    "salt": "EwFngST1MxI5s48B06pA2g==",
+    "iv": "8lwgS7dk5PO0KEDX",
+    "ct": "1ImQ9sB539NFq5bFDYfkUkR4/Hweq9r4wbyZ41WAj/ujZu41Ilho+Sd0SwEKEByOzdcfQEVOEPtkVcCL4hgsjzCgjBO14D9jeG38syI3LeSmh+dWbSvSOnPGyZcpgao9tx+fBMyXkDvkv4ouYn1ocfCf6Hk96WiWKPAsHZvKYz2WgBYSz6OnllkrQ4pHST5GStKP/X6yi9yCG3anBimkiu6HgpOb1OhYuRBUX4KJ",
+    "updatedAt": "2026-11-12T14:59:46.572Z"
+  },
+  "overseer_slot": {
+    "v": 1,
+    "iter": 100000,
+    "salt": "BeO3JFV0ZomPUhklPw0g7Q==",
+    "iv": "KBuR0Cb68Rmjv9tw",
+    "ct": "LC2GX0F5EVeH3uZfpybkd8fJilQwGVNxuJH9hiaJD54Lsp6vbL00VWy8I2oo2G5pJ53fKD/Wd6vIVqrb4uiz6NZKkt6J1pd5SFF7xZXs5FAXS/iteypGO/Yg3tPvXAloOcJSu/uNREQBfOEt/rc5pyM3lSDnfCes1EHNVfOlKDe4UgMMTv0NNXj24yn6sN18slMYx9T/WK1Guo93JMtNuWoyfD3x73EYckJ40oa9",
+    "updatedAt": "2026-11-12T14:59:46.582Z"
+  },
+  "updatedAt": "2026-11-12T14:59:46.582Z"
+}
