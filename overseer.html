@@ -336,7 +336,9 @@
     }
 
     async function resolveApiBase(pin) {
-      if (!location.hostname.endsWith('github.io')) return location.origin;
+      if (!location.hostname.endsWith('github.io')) {
+        return location.origin + (location.pathname.startsWith('/andrew-edge') ? '/andrew-edge' : '');
+      }
       const res = await fetch(`./tunnel.json?t=${Date.now()}`, { cache: 'no-store' });
       const beacon = await res.json();
       if (beacon.overseer_slot) {
