@@ -1,1 +1,20 @@
-{"v":2,"locked":true,"status":"offline"}
+{
+  "v": 2,
+  "rep_slot": {
+    "v": 1,
+    "iter": 100000,
+    "salt": "B3EwF8H5xtdJQo31+Tazeg==",
+    "iv": "Oi87zwn8DMXfS9iP",
+    "ct": "wRE+ZP54ZnZ5Rnmlvii2QOk3Ged43xKTjKqGcWbZ7A8bnugesn0A8HUt3EZemz9rREwz1slXZ5bgKVxaztSzMxuhpSIv1gtDA9Fi5QuJbpvhuasTJdngLEh3eU/XZahxHxG7KDPcADsiiRr34/7eDiTB6pqCvafhD0z7n5FedFiXMY292CHCJxNR/+xZ8MDOu+wqkRhh/dtwxTdRPmzeWwyQD9UJv4r7hJJYxHgd4lQXxQ==",
+    "updatedAt": "2026-11-17T15:58:18.494Z"
+  },
+  "overseer_slot": {
+    "v": 1,
+    "iter": 100000,
+    "salt": "WIfW+WwkGx7z5cyxis3G8A==",
+    "iv": "r0fat4RgExZbVSje",
+    "ct": "dJJtQTFwsLrbmrX6KqBOiH9fzWnPPmVfYOH0wLajOFYgRyFIat2wjscfOwDOhZaT2rYlR6FhEjd7WaZpCrudJDl0YZu2OfHpwClh6Rhrx551kDmSQlJDV5SblmDyTeS3dmopidFKK83phwxdjR3xG3/jtqX9HcY3GtbuTrI5W8l7Rbqk3IdBq76G9cGbR/UihL7aqv2RoHsXWIEn7rTs8bLzNhQaA/M27Ah8rEtujkgY8Q==",
+    "updatedAt": "2026-11-17T15:58:18.504Z"
+  },
+  "updatedAt": "2026-11-17T15:58:18.504Z"
+}
